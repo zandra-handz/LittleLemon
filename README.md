@@ -8,7 +8,7 @@ Hello fellow classmates! :) Here is my project for the backend capstone course.
 
 You will want to establish a virtual environment and activate at the littlelemon/ level before running and testing.
 
-Cd to littlelemonroot/ project folder to run the server and to run the tests. See the readme.txt for endpoints!
+Cd to littlelemonroot/ project folder to run the server (python manage.py runserver) and to run the tests (python manage.py test). See the readme.txt for endpoints!
 
 ### Database Configuration
 
