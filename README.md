@@ -2,7 +2,7 @@
 
 ## Description
 
-Hello fellow classmates! :) Here is my project for the back-end capstone course.
+Hello fellow classmates! :) Here is my project for the backend capstone course.
 
 ### Setup
 
@@ -14,6 +14,7 @@ Cd to littlelemonroot/ project folder to run the server and to run the tests. Se
 
 **This project uses a MySQL database.**
 
+```python
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -27,9 +28,9 @@ DATABASES = {
         }
     }
 }
-
+```
 
 ### Author
 
-@zandra-handz
+[@zandra-handz](https://github.com/zandra-handz)
 
